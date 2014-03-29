@@ -1,0 +1,11 @@
+{
+  "main": "launchpad-app.js",
+  "name": "launchpad-app",
+  "version": "0.3.0",
+  "description": "A simple library for creating applications using the Novation Launchpad",
+  "author": "Alexandre Gagnon",
+
+  "dependencies": {
+    "midi": "~0.7.0"
+  }
+}
